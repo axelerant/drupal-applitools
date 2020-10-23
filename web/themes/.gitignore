@@ -1,0 +1,5 @@
+README.txt
+/custom/axe-applitools/package-lock.json
+/custom/axe-applitools/node_modules
+/custom/axe-applitools/cypress/screenshots
+/custom/axe-applitools/cypress/videos

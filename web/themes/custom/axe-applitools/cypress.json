@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://applitools.lndo.site/",
+    "retries": 1,
+    "eyesTimeout": 180000
+}
